@@ -43,16 +43,16 @@
     top: -15;
 }
 
-.line-md--discord-twotone {
-  display: inline-block;
-  width: 24px;
-  height: 24px;
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cg fill='%233d1b57' fill-opacity='0'%3E%3Ccircle cx='9' cy='12' r='1.5'%3E%3Canimate fill='freeze' attributeName='fill-opacity' begin='1.3s' dur='0.15s' values='0;1'/%3E%3C/circle%3E%3Ccircle cx='15' cy='12' r='1.5'%3E%3Canimate fill='freeze' attributeName='fill-opacity' begin='1.45s' dur='0.15s' values='0;1'/%3E%3C/circle%3E%3Cpath d='M5 5l7 0.2l7 -0.2l3 10l-3 3.4h-14l-3.5 -3.4l3.5 -10Z'%3E%3Canimate fill='freeze' attributeName='fill-opacity' begin='1.7s' dur='0.15s' values='0;0.3'/%3E%3C/path%3E%3C/g%3E%3Cg fill='none' stroke='%233d1b57' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'%3E%3Cpath stroke-dasharray='32' stroke-dashoffset='32' d='M12 6h2l1 -2c0 0 2.5 0.5 4 1.5c3.53 2.35 3 9.5 3 10.5c-1.33 2.17 -5.5 3.5 -5.5 3.5l-1 -2M12 6h-2l-0.97 -2c0 0 -2.5 0.5 -4 1.5c-3.53 2.35 -3 9.5 -3 10.5c1.33 2.17 5.5 3.5 5.5 3.5l1 -2'%3E%3Canimate fill='freeze' attributeName='stroke-dashoffset' dur='0.7s' values='32;0'/%3E%3C/path%3E%3Cpath stroke-dasharray='16' stroke-dashoffset='16' d='M5.5 16c5 2.5 8 2.5 13 0'%3E%3Canimate fill='freeze' attributeName='stroke-dashoffset' begin='0.8s' dur='0.4s' values='16;0'/%3E%3C/path%3E%3C/g%3E%3C/svg%3E");
-    position: absolute;
-    left: 720;
-    top: 110;
-    transform: rotateY(15deg)
-
-}
+/* .line-md--discord-twotone { */
+/*   display: inline-block; */
+/*   width: 24px; */
+/*   height: 24px; */
+/*   background-repeat: no-repeat; */
+/*   background-size: 100% 100%; */
+/*   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cg fill='%233d1b57' fill-opacity='0'%3E%3Ccircle cx='9' cy='12' r='1.5'%3E%3Canimate fill='freeze' attributeName='fill-opacity' begin='1.3s' dur='0.15s' values='0;1'/%3E%3C/circle%3E%3Ccircle cx='15' cy='12' r='1.5'%3E%3Canimate fill='freeze' attributeName='fill-opacity' begin='1.45s' dur='0.15s' values='0;1'/%3E%3C/circle%3E%3Cpath d='M5 5l7 0.2l7 -0.2l3 10l-3 3.4h-14l-3.5 -3.4l3.5 -10Z'%3E%3Canimate fill='freeze' attributeName='fill-opacity' begin='1.7s' dur='0.15s' values='0;0.3'/%3E%3C/path%3E%3C/g%3E%3Cg fill='none' stroke='%233d1b57' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'%3E%3Cpath stroke-dasharray='32' stroke-dashoffset='32' d='M12 6h2l1 -2c0 0 2.5 0.5 4 1.5c3.53 2.35 3 9.5 3 10.5c-1.33 2.17 -5.5 3.5 -5.5 3.5l-1 -2M12 6h-2l-0.97 -2c0 0 -2.5 0.5 -4 1.5c-3.53 2.35 -3 9.5 -3 10.5c1.33 2.17 5.5 3.5 5.5 3.5l1 -2'%3E%3Canimate fill='freeze' attributeName='stroke-dashoffset' dur='0.7s' values='32;0'/%3E%3C/path%3E%3Cpath stroke-dasharray='16' stroke-dashoffset='16' d='M5.5 16c5 2.5 8 2.5 13 0'%3E%3Canimate fill='freeze' attributeName='stroke-dashoffset' begin='0.8s' dur='0.4s' values='16;0'/%3E%3C/path%3E%3C/g%3E%3C/svg%3E"); */
+/*     position: absolute; */
+/*     left: 720; */
+/*     top: 110; */
+/*     transform: rotateY(15deg) */
+/**/
+/* } */
